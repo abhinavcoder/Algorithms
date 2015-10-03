@@ -1,4 +1,4 @@
-/* Analysis
+/* Analysis : Bucket Sort
 bucketSort(arr[], n)
 1) Create n empty buckets (Or lists). .......................................... |
 2) Do following for every array element arr[i].                                  |....O(n)
